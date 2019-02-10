@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EarthQuakeWatcher</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="info_window_title">Info</string>
+    <string name="magnitude_caption">Magnitude</string>
+    <string name="more_info_button">More Info...</string>
+    <string name="detail_info">Detail Info</string>
+    <string name="surroounding_cities">Surrounding Cities</string>
+    <string name="list_content">List Content</string>
+    <string name="close">Close</string>
+    <string name="show_list">Show List</string>
+    <string name="title_activity_detail_maps">Map</string>
+</resources>
